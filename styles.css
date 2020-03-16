@@ -1,25 +1,36 @@
 
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
 h1 {
     background: aquamarine;
+    text-align: center;
     
   }
 h2 {
     background: aquamarine;
+    text-align: center;
   }
   
 h3 {
     background: aquamarine;
+    text-align: center;
   }
 h4 {
     background: aquamarine;
+    text-align: center;
   }
- 
+figure {
+    text-align: center;
+}
 p {
-    margin-top: -20px;
-    margin-bottom: -20px;
-    margin-right: 700px;
-    margin-left: 80px;
-    padding: 25px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+      
+    padding: 1.25em;
   }
 
-  
+  h1,p {
+      padding: 1.25em;
+  }
